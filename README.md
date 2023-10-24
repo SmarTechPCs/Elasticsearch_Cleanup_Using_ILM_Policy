@@ -1,0 +1,2 @@
+# Elasticsearch_Cleanup_Using_ILM_Policy-
+Elasticsearch Indices Cleanup Script
